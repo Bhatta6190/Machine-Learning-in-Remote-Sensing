@@ -1,4 +1,4 @@
-## Remote Sensing In Machine Learning
+## ML-in-RS
 ## Readme pending123
 ##
 
