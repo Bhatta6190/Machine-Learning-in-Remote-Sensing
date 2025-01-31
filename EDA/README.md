@@ -12,3 +12,5 @@ The code `eda.ipynb` does following serially:
 
 More information on Sentinel2 bands can be obatained from: https://gisgeography.com/sentinel-2-bands-combinations/                                                            
 Target Spectra can be downloaded from: https://speclib.jpl.nasa.gov/library
+
+*Note: Download the code or open with github-dev: https://github.dev/github/dev to view the code*
