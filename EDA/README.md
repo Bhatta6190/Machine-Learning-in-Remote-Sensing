@@ -13,4 +13,6 @@ The code `eda.ipynb` does following serially:
 More information on Sentinel2 bands can be obatained from: https://gisgeography.com/sentinel-2-bands-combinations/                                                            
 Target Spectra can be downloaded from: https://speclib.jpl.nasa.gov/library
 
-🔴 **Note:** Download the code or [`Click here`](https://github.dev/Bhatta6190/Machine-Learning-in-Remote-Sensing/blob/main/EDA/eda.ipynb) to view with Github Dev Tool.
+🔴 **Note:** Download the code or use these links to view with Github Dev Tool:
+- [`Click here`](https://github.dev/Bhatta6190/Machine-Learning-in-Remote-Sensing/blob/main/EDA/eda.ipynb) to view `eda.ipynb` file.
+- [`Click here`](https://github.dev/Bhatta6190/Machine-Learning-in-Remote-Sensing/blob/main/EDA/eda_with_details.ipynb) to view `eda_with_details.ipynb` file.
