@@ -35,38 +35,38 @@ The dataset consists of **ENVI-format hyperspectral images**:
 │── 📄 PCA_and_ML_code.ipynb    # Contains all code (PCA, visualization, clustering)  
 │── 📄 README.md                # Project Explanation
 ```
+
 <h2>Sample Results</h2>
 
 <h3>1. HSI Data Visualization</h3>
-<div class="image-container">
-    <img src="./Results/HSI_RGB_image.png" alt="HSI RGB Image">
-    <img src="./Results/HSI_CIR_image.png" alt="HSI CIR False Color Image">
+<div style="display: flex; gap: 10px;">
+    <img src="./Results/HSI_RGB_image.png" alt="HSI RGB Image" style="width: 45%; max-width: 400px;">
+    <img src="./Results/HSI_CIR_image.png" alt="HSI CIR False Color Image" style="width: 45%; max-width: 400px;">
 </div>
 <p><em>Explanation</em></p>
 
 <h3>2. PCA Components</h3>
-<img src="./Results/PCA_bands.png" alt="PCA Bands">
+<img src="./Results/PCA_bands.png" alt="PCA Bands" style="width: 60%; max-width: 600px;">
 <p><em>Explanation</em></p>
 
 <h3>3. Data Reconstruction</h3>
-<img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA">
+<img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA" style="width: 60%; max-width: 600px;">
 <p><em>Explanation</em></p>
 
 <h3>4. 16-Bands Sentinel-2 Imagery Clustering</h3>
-<div class="image-container">
-    <img src="./Results/Sentinel-2 Imagery.png" alt="Sentinel-2 RGB Image">
-    <img src="./Results/Clustered_sentinel_imagery.png" alt="K-Means Clustered Sentinel-2 Image">
+<div style="display: flex; gap: 10px;">
+    <img src="./Results/Sentinel-2 Imagery.png" alt="Sentinel-2 RGB Image" style="width: 45%; max-width: 400px;">
+    <img src="./Results/Clustered_sentinel_imagery.png" alt="K-Means Clustered Sentinel-2 Image" style="width: 45%; max-width: 400px;">
 </div>
 <p><em>Explanation</em></p>
 
 <h3>5. HSI Patch Reconstruction and Comparison</h3>
-<div class="image-container">
-    <img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction">
-</div>
-<div class="image-container">
-    <img src="./Results/hsi_kmeans_allbands.png" alt="Clustered Patch with All Bands">
-    <img src="./Results/Hsi_patch_clustered_PCA.png" alt="Clustered Patch with PCA Reduced Data">
+<img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction" style="width: 50%; max-width: 500px;">
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+    <img src="./Results/hsi_kmeans_allbands.png" alt="Clustered Patch with All Bands" style="width: 45%; max-width: 400px;">
+    <img src="./Results/Hsi_patch_clustered_PCA.png" alt="Clustered Patch with PCA Reduced Data" style="width: 45%; max-width: 400px;">
 </div>
 <p><em>Explanation</em></p>
+
 
 
