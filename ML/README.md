@@ -68,14 +68,14 @@ The dataset consists of **ENVI-format hyperspectral images**:
 ### 5. HSI Patch Reconstruction and Comparison
 #### Selected HSI Patch:
 <p align="center">
-  <img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction" width="100%"/>
+  <img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction" width="90%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Extracted *(250x250)* HSI patch.</p>
 
 #### Clustered Patch Comparison:
 <p align="left">
-  <img src="./Results/hsi_kmeans_allbands.png" alt="Clustered All Bands" width="50%"/>
-  <img src="./Results/Hsi_patch_clustered_PCA.png" alt="Clustered PCA" width="50%"/>
+  <img src="./Results/hsi_kmeans_allbands.png" alt="Clustered All Bands" width="45%"/>
+  <img src="./Results/Hsi_patch_clustered_PCA.png" alt="Clustered PCA" width="45%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Clustered patch using all bands (left) vs. PCA-reduced data (right).</p>
 
