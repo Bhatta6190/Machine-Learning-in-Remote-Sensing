@@ -34,14 +34,15 @@ The dataset consists of **ENVI-format hyperspectral images**:
 📂 hyperspectral-analysis
 │── 📄 PCA_and_ML_code.ipynb    # Contains all code (PCA, visualization, clustering)  
 │── 📄 README.md                # Project Explanation
+│── 📂 Results/                 # Contains sample of generated figures and analysis
 ```
 
 ## Sample Results
 
 ### 1. HSI Data Visualization
 <p align="left">
-  <img src="./Results/HSI_RGB_image.png" alt="HSI RGB Image" width="45%"/>
-  <img src="./Results/HSI_CIR_image.png" alt="HSI CIR Image" width="45%"/>
+  <img src="./Results/HSI_RGB_image.png" alt="HSI RGB Image" width="40%"/>
+  <img src="./Results/HSI_CIR_image.png" alt="HSI CIR Image" width="40%"/>
 </p>
 <p align="center"><strong>Figure:</strong> RGB (left) and CIR false-color (right) imagery extracted from HSI data.</p>
 
@@ -53,14 +54,14 @@ The dataset consists of **ENVI-format hyperspectral images**:
 
 ### 3. Data Reconstruction
 <p align="center">
-  <img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA" width="100%"/>
+  <img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA" width="125%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Spectral reconstruction using PCA.</p>
 
 ### 4. 16 Bands Sentinel-2 Imagery Clustering
 <p align="left">
   <img src="./Results/Sentinel-2%20Imagery.png" alt="Sentinel-2 RGB Image" width="45%"/>
-  <img src="./Results/Clusterd_sentinel_imagery.png" alt="Clustered Sentinel-2 Image" width="75%"/>
+  <img src="./Results/Clusterd_sentinel_imagery.png" alt="Clustered Sentinel-2 Image" width="55%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Sentinel-2 RGB image (left) and clustered image using K-means (right).</p>
 
@@ -69,12 +70,12 @@ The dataset consists of **ENVI-format hyperspectral images**:
 <p align="center">
   <img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction" width="100%"/>
 </p>
-<p align="center"><strong>Figure:</strong> Extracted HSI patch.</p>
+<p align="center"><strong>Figure:</strong> Extracted *(250x250)* HSI patch.</p>
 
 #### Clustered Patch Comparison:
 <p align="left">
-  <img src="./Results/hsi_kmeans_allbands.png" alt="Clustered All Bands" width="45%"/>
-  <img src="./Results/Hsi_patch_clustered_PCA.png" alt="Clustered PCA" width="45%"/>
+  <img src="./Results/hsi_kmeans_allbands.png" alt="Clustered All Bands" width="50%"/>
+  <img src="./Results/Hsi_patch_clustered_PCA.png" alt="Clustered PCA" width="50%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Clustered patch using all bands (left) vs. PCA-reduced data (right).</p>
 
