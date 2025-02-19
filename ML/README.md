@@ -13,6 +13,8 @@ The dataset consists of **ENVI-format hyperspectral images**:
 - `taitlabsphere` (image data)  
 - `taitlabsphere.hdr` (metadata)  
 
+*Note: Since the HSI data is of large size it is not included here, however the code should work for any HSI data*
+
 ## Methods  
 
 ### 1. Data Preprocessing & Visualization  
@@ -33,7 +35,7 @@ The dataset consists of **ENVI-format hyperspectral images**:
 ```plaintext
 📂 hyperspectral-analysis
 │── 📄 PCA_and_ML_code.ipynb    # Contains all code (PCA, visualization, clustering)  
-│── 📄 README.md                # Project Explanation
+│── 📄 README.md                # Work Explanation
 │── 📂 Results/                 # Contains samples of generated figures and analysis
 ```
 
