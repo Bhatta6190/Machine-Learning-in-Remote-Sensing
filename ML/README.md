@@ -34,7 +34,7 @@ The dataset consists of **ENVI-format hyperspectral images**:
 📂 hyperspectral-analysis
 │── 📄 PCA_and_ML_code.ipynb    # Contains all code (PCA, visualization, clustering)  
 │── 📄 README.md                # Project Explanation
-│── 📂 Results/                 # Contains sample of generated figures and analysis
+│── 📂 Results/                 # Contains samples of generated figures and analysis
 ```
 
 ## Sample Results and Comments
