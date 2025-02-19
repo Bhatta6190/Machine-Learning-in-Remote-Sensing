@@ -53,7 +53,7 @@ The dataset consists of **ENVI-format hyperspectral images**:
 <p align="center"><strong>Figure:</strong> PCA components extracted from the hyperspectral image.</p>
 
 ### 3. Data Reconstruction
-<p align="center">
+<p align="left">
   <img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA" width="150%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Spectral reconstruction using PCA.</p>
@@ -67,10 +67,10 @@ The dataset consists of **ENVI-format hyperspectral images**:
 
 ### 5. HSI Patch Reconstruction and Comparison
 #### Selected HSI Patch:
-<p align="center">
+<p align="left">
   <img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction" width="90%"/>
 </p>
-<p align="left"><strong>Figure:</strong> Extracted 250x250 HSI patch (right).</p>
+<p align="right"><strong>Figure:</strong> Extracted 250x250 HSI patch (right).</p>
 
 #### Clustered Patch Comparison:
 <p align="left">
