@@ -37,7 +37,7 @@ The dataset consists of **ENVI-format hyperspectral images**:
 │── 📂 Results/                 # Contains sample of generated figures and analysis
 ```
 
-## Sample Results
+## Sample Results and Comments
 
 ### 1. HSI Data Visualization
 <p align="left">
