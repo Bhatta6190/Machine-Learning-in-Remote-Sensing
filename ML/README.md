@@ -54,7 +54,7 @@ The dataset consists of **ENVI-format hyperspectral images**:
 
 ### 3. Data Reconstruction
 <p align="center">
-  <img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA" width="125%"/>
+  <img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA" width="150%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Spectral reconstruction using PCA.</p>
 
