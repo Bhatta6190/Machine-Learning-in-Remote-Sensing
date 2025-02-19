@@ -70,7 +70,7 @@ The dataset consists of **ENVI-format hyperspectral images**:
 <p align="center">
   <img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction" width="90%"/>
 </p>
-<p align="center"><strong>Figure:</strong> Extracted 250x250 HSI patch (right).</p>
+<p align="left"><strong>Figure:</strong> Extracted 250x250 HSI patch (right).</p>
 
 #### Clustered Patch Comparison:
 <p align="left">
