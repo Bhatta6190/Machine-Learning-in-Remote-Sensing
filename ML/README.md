@@ -74,8 +74,8 @@ The dataset consists of **ENVI-format hyperspectral images**:
 
 #### Clustered Patch Comparison:
 <p align="left">
-  <img src="./Results/hsi_kmeans_allbands.png" alt="Clustered All Bands" width="50%"/>
-  <img src="./Results/Hsi_patch_clustered_PCA.png" alt="Clustered PCA" width="50%"/>
+  <img src="./Results/hsi_kmeans_allbands.png" alt="Clustered All Bands" width="48%"/>
+  <img src="./Results/Hsi_patch_clustered_PCA.png" alt="Clustered PCA" width="48%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Clustered patch using all bands (left) vs. PCA-reduced data (right).</p>
 
