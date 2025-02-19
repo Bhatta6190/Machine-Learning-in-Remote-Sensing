@@ -61,7 +61,7 @@ The dataset consists of **ENVI-format hyperspectral images**:
 ### 4. 16 Bands Sentinel-2 Imagery Clustering
 <p align="left">
   <img src="./Results/Sentinel-2%20Imagery.png" alt="Sentinel-2 RGB Image" width="45%"/>
-  <img src="./Results/Clusterd_sentinel_imagery.png" alt="Clustered Sentinel-2 Image" width="50%"/>
+  <img src="./Results/Clusterd_sentinel_imagery.png" alt="Clustered Sentinel-2 Image" width="52%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Sentinel-2 RGB image (left) and clustered image using K-means (right).</p>
 
