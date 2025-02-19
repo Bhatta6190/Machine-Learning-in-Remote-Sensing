@@ -29,7 +29,7 @@ The dataset consists of **ENVI-format hyperspectral images**:
 - Implemented **K-Means clustering** on PCA-reduced features for simple *RGB image*, *Sentinel-2 multispectral image* and given *Hyperspectral image*.  
 - Compared clustering performance across different feature dimensions (PCs) as well as its performance across different imgagery data.  
 
-## Project Structure  
+## File Structure  
 ```plaintext
 📂 hyperspectral-analysis
 │── 📄 PCA_and_ML_code.ipynb    # Contains all code (PCA, visualization, clustering)  
