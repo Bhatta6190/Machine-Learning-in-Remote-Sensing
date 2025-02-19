@@ -47,27 +47,27 @@ The dataset consists of **ENVI-format hyperspectral images**:
 
 ### 2. PCA Components
 <p align="center">
-  <img src="./Results/PCA_bands.png" alt="PCA Components" width="75%"/>
+  <img src="./Results/PCA_bands.png" alt="PCA Components" width="125%"/>
 </p>
 <p align="center"><strong>Figure:</strong> PCA components extracted from the hyperspectral image.</p>
 
 ### 3. Data Reconstruction
 <p align="center">
-  <img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA" width="75%"/>
+  <img src="./Results/Target_reconstruction.png" alt="Spectra Reconstruction using PCA" width="100%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Spectral reconstruction using PCA.</p>
 
 ### 4. 16 Bands Sentinel-2 Imagery Clustering
 <p align="left">
   <img src="./Results/Sentinel-2%20Imagery.png" alt="Sentinel-2 RGB Image" width="45%"/>
-  <img src="./Results/Clusterd_sentinel_imagery.png" alt="Clustered Sentinel-2 Image" width="45%"/>
+  <img src="./Results/Clusterd_sentinel_imagery.png" alt="Clustered Sentinel-2 Image" width="75%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Sentinel-2 RGB image (left) and clustered image using K-means (right).</p>
 
 ### 5. HSI Patch Reconstruction and Comparison
 #### Selected HSI Patch:
 <p align="center">
-  <img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction" width="50%"/>
+  <img src="./Results/selected_HSI_patch.png" alt="HSI Patch Extraction" width="100%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Extracted HSI patch.</p>
 
