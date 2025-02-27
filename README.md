@@ -6,7 +6,11 @@ This repository provides tools and resources for applying machine learning to re
 
 - **`EDA`**: `Exploratory Data Analysis (EDA)` of **Sentinel2** based  13 band `Multispectral` imagery collected over Rochester, New York.
 - **`ML`**: Analysis of `Hyperspectral` Imagery and application of `Principal Component Analysis(PCA)` for dimensionality reduction and using the data for `K-means` clustering     based Unsupervised classification.
+- **`HSI_multiclass_classification`**: Using `Hyperspectral` remote sensing dataset from `Pavia University ` to perform `Binary` as well as `Multi-class` classification. 
 
 Suggestions are highly appreciated.
 
 For resource usage and potential collaborations, contact: rb1005@rit.edu.
+
+we will use remote sensing dataset (PaviaU.mat and PaviaU gt.mat) to perform both
+types of classification
