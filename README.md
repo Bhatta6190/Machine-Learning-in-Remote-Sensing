@@ -6,13 +6,15 @@ This repository provides tools and resources for applying machine learning to re
 
 - **`EDA`**: `Exploratory Data Analysis (EDA)` of **Sentinel2** based  13 band `Multispectral` imagery collected over Rochester, New York.
 - **`ML`**: Analysis of `Hyperspectral` Imagery and application of `Principal Component Analysis(PCA)` for dimensionality reduction and using the data for `K-means` clustering     based Unsupervised classification.
-- **`HSI_classification_regression`**: Contains two directories as:
+- **`HSI_classification_regression`**: This directory contains two main subdirectories:  
 
-```
-HSI_classification_regression/
-│── Classification/    # Binary classification (Logistic Regression) & Multi-class classification (XGBoost) using Pavia University dataset  
-│── Regression/        # Chlorophyll content prediction using Linear Regression, PLSR, and MLP with spectral band values as features  
-```
+  ```
+  HSI_classification_regression/
+  │── Classification/    # Binary classification (Logistic Regression) & Multi-class classification (XGBoost)  
+  │                      # using the Pavia University Hyperspectral dataset  
+  │── Regression/        # Chlorophyll content prediction using Linear Regression, PLSR, and MLP  
+  │                      # based on spectral band values as features  
+  ```
 
 Suggestions are highly appreciated.
 
