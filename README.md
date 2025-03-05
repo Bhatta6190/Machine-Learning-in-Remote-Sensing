@@ -19,6 +19,3 @@ This repository provides tools and resources for applying machine learning to re
 Suggestions are highly appreciated.
 
 For resource usage and potential collaborations, contact: rb1005@rit.edu.
-
-we will use remote sensing dataset (PaviaU.mat and PaviaU gt.mat) to perform both
-types of classification
