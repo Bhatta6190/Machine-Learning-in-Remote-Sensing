@@ -65,7 +65,7 @@ In this task, we perform the following:
 The dataset used for regression is the **Chlorophyll Content Prediction Dataset**. This dataset contains simulated leaf reflectance spectra and corresponding chlorophyll content at varying levels. Below is a plot of sample spectra used for the task:
 
 <p align="left">
-  <img src="./Regression/sample_spectra.png" alt="Sample Spectra" width="50%"/>
+  <img src="./Regression/sample_spectra.png" alt="Sample Spectra" width="46%"/>
   <img src="./Regression/chlorophyll_content_distribution.png" alt="Chlorophyll Content Distribution" width="40%"/>
 </p>
 <p align="center"><strong>Figure:</strong> Spectral bands data (left) and Chlorophyll Content Histogram (right)</p>
