@@ -24,7 +24,7 @@ The dataset used for classification is the **Pavia University Dataset**. This da
 </p>
 <p align="center"><strong>Figure: Pavia University Dataset</strong></p>
 
-The codes for this task are in the file `Classification/classification.ipynb`.
+The codes and *Results* for this task are in the file `Classification/classification.ipynb`.
 
 ---
 
@@ -70,7 +70,7 @@ The dataset used for regression is the **Chlorophyll Content Prediction Dataset*
 </p>
 <p align="center"><strong>Figure:</strong> Spectral bands data (left) and Chlorophyll Content Histogram (right)</p>
 
-The codes for this task are in the file `Regression/regression.ipynb`.
+The codes and *Results* for this task are in the file `Regression/regression.ipynb`.
 
 ---
 
