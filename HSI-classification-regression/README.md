@@ -37,7 +37,7 @@ In this task, we use the dataset `landis_chlorophyl_regression.npy` and `landis_
 The dataset consists of 10 spectral bands in the visible to near-infrared region, listed below:
 
 | Band Name    | Center Wavelength (nm) |
-|--------------|:-----------------------:|
+|:--------------:|:-----------------------:|
 | Blue         | 490                     |
 | Green        | 560                     |
 | Yellow       | 600                     |
