@@ -19,7 +19,7 @@ Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikip
 
 Even though the lake area is one of the major tourist destination, the water quality in the lake has been degraged due to significant amount of pollution caused by haphazard urbanization along the lake shores (mainly from tourism bussinesses) and direct emission of pollutants into the lake. Also during the rainy season, water hyacinth an aggressive invasive species, has invaded and polluted Fewa Lake for the last 2 decades (https://thehimalayantimes.com/opinion/fewa-laketoo-late-for-conservation). 
 
-The purpose of this study is to use the LANDSAT based time series temperature data to see if the **Global Warming** has resulted in increase in temperature of the lake over time or decrease in the temperature due to **Local Pollution** or any other reasons. 
+The purpose of this study is to use the LANDSAT based time series temperature data to see if the **Global Warming** has resulted in increase in temperature of the lake over time or decrease in the temperature due to **local environmental factors** or any other reasons. 
 
 
 ## Directory Structure
