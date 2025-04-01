@@ -9,13 +9,17 @@ The time series lake temperature data was collected using Google Earth Engine an
 
 ## Study Area
 
-Fewa Lake, located in the Pokhara Valley, is Nepal’s second-largest lake and a popular tourist destination. Despite its scenic beauty, the lake has faced environmental challenges, including pollution from urbanization and invasive species. The analysis investigates how these factors might have influenced the lake’s thermal profile over time.
-
 <p align="center">
   <img src="https://live.staticflickr.com/3946/15715573565_e1e65b4d17_b.jpg" alt="Fewa Lake" width="60%"/>
 </p>
 <p align="center"><strong>Figure 1: View of Fewa Lake</strong><br>
 Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikipedia</a></p>
+
+**Fewa (Phewa)** lake lies in **Pokhara** valley which is one of the major tourist destination in **Nepal**. It is a freshwater lake surrounded by hills and mountains and also is the second largest lake in the country. The *Annapurna mountain range* on the north is only about 28 km away from the lake and the lake is famous for the reflection of *Mt. Fishtail (seen in figure right)*, *Mt. Annapurna (seen in figure left)* and *Mt. Dhaulagiri* range on its surface. 
+
+Even though the lake area is one of the major tourist destination, the water quality in the lake has been degraged due to significant amount of pollution caused by haphazard urbanization along the lake shores (mainly from tourism bussinesses) and direct emission of pollutants into the lake. Also during the rainy season, water hyacinth an aggressive invasive species, has invaded and polluted Fewa Lake for the last 2 decades (https://thehimalayantimes.com/opinion/fewa-laketoo-late-for-conservation). 
+
+The purpose of this study is to use the LANDSAT based time series temperature data to see if the **Global Warming** has resulted in increase in temperature of the lake over time or decrease in the temperature due to **Local Pollution** or any other reasons. 
 
 
 ## Directory Structure
