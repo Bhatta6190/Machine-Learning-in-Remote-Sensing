@@ -19,6 +19,7 @@ Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikip
 
 
 ## Directory Structure
+```
 
 ├── extracted_data
 │   ├── lake_temperature_time_series.csv
@@ -26,6 +27,8 @@ Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikip
 │   ├── Lake_temperature_trends_data_collection.ipynb  # For extracting the time-series temperature data using multiple Landsats (part I)
 │   ├── data_analysis.ipynb  # Trend analysis of extracted time-series temperature data (part II)
 ├── README.md
+
+```
 
 ## Results
 
