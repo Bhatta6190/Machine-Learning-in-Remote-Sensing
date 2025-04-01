@@ -1,4 +1,4 @@
-# Histrorical Trend Analysis of Lake Temperatures using LANDSAT Data obtained through Google Earth Engine (GEE).
+# Historical Trend Analysis of Lake Temperatures using LANDSAT Data obtained through Google Earth Engine (GEE).
 
 ## Overview
 This directory contains an analysis of the historical lake temperature trends using LANDSAT data obtained through Google Earth Engine (GEE). The study focuses on Fewa (Phewa) Lake, Nepal, and aims to determine whether global warming has led to an increase in lake temperature or if local environmental factors have contributed to a temperature decrease.
