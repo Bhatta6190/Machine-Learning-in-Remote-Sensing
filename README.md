@@ -15,6 +15,7 @@ This repository provides tools and resources for applying machine learning to re
   │── Regression/        # Chlorophyll content prediction using Linear Regression, PLSR, and MLP  
   │                      # based on spectral band values as features  
   ```
+- **`GEE`**: Histrorical Trend Analysis of Lake Temperatures using `LANDSAT` Data obtained through `Google Earth Engine (GEE)`.
 
 Suggestions are highly appreciated.
 
