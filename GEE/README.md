@@ -49,7 +49,7 @@ The purpose of this study is to use the LANDSAT based time series temperature da
   <img src="./Fewa_temperature_trends.png" alt="Temperature trend" width="82%"/>
 </p>
 <p align="center">
-  <strong>Figure 2:</strong> Satellite Image of Lake of Interest and selected ROI (a) and Temperature trend plot (b).
+  <strong>Figure 2:</strong> Satellite Image of Lake of Interest and selected ROI (bounding box) (a) and Temperature trend plot (b).
 </p>
 
 
