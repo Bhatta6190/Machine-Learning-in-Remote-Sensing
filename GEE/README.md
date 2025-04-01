@@ -24,7 +24,7 @@ Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikip
 ├── extracted_data
 │   ├── `lake_temperature_time_series.csv`
 ├── scripts
-│   ├── `Lake_temperature_trends_data_collection.ipynb`  # For extracting the time-series temperature data using multiple Landsats (part I)
+│   ├── `Lake_temperature_trends_data_collection.ipynb`  # For extracting the time-series temperature data using multiple Landsats (part I). Use [Google Colab](https://colab.research.google.com/) to open the file.
 │   ├── `data_analysis.ipynb`  # Trend analysis of extracted time-series temperature data (part II)
 ├── `Masking_notes.pdf` # Handwritten notes with example on how to mask cloud, snow, shadow and other unnecessary pixels in landsat image.
 ├── `README.md`
