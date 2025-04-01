@@ -1,7 +1,7 @@
-# Histrorical Trend Analysis of Lake Temperatures using LANDSAT Data obtained through Google Earth Engine (GEE)
+# Histrorical Trend Analysis of Lake Temperatures using LANDSAT Data obtained through Google Earth Engine (GEE).
 
 ## Overview
-This repository contains an analysis of the historical lake temperature trends using LANDSAT data obtained through Google Earth Engine (GEE). The study focuses on Fewa (Phewa) Lake, Nepal, and aims to determine whether global warming has led to an increase in lake temperature or if local environmental factors have contributed to a temperature decrease.
+This directory contains an analysis of the historical lake temperature trends using LANDSAT data obtained through Google Earth Engine (GEE). The study focuses on Fewa (Phewa) Lake, Nepal, and aims to determine whether global warming has led to an increase in lake temperature or if local environmental factors have contributed to a temperature decrease.
 
 ## Data Collection
 
@@ -11,12 +11,12 @@ The time series lake temperature data was collected using Google Earth Engine an
 
 Fewa Lake, located in the Pokhara Valley, is Nepal’s second-largest lake and a popular tourist destination. Despite its scenic beauty, the lake has faced environmental challenges, including pollution from urbanization and invasive species. The analysis investigates how these factors might have influenced the lake’s thermal profile over time.
 
- <figure style="text-align: center;">
-    <img src="https://live.staticflickr.com/3946/15715573565_e1e65b4d17_b.jpg" alt="Fewa Lake" style="width: 700px; display: block; margin: auto;">
-   <figcaption style="margin-top: 10px;">
+<figure style="text-align: center;">
+  <img src="https://live.staticflickr.com/3946/15715573565_e1e65b4d17_b.jpg" alt="Fewa Lake" style="width: 700px; display: block; margin-left: auto; margin-right: auto;">
+  <figcaption style="margin-top: 10px;">
     Figure 1: View of Fewa Lake <br>
     Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikipedia</a>
-    </figcaption>
+  </figcaption>
 </figure>
 
 
