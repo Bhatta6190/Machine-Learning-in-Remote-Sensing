@@ -37,7 +37,7 @@ The purpose of this study is to use the LANDSAT based time series temperature da
 
 **Note:** 
 
-- Use [Google Colab](https://colab.research.google.com/) to open the `Lake_temperature_trends_data_collection.ipynb` notebook. This contains step-by-step explanantion and code to extract historical temperature data.
+- Use [Google Colab](https://colab.research.google.com/) to open the `Lake_temperature_trends_data_collection.ipynb` notebook. This notebook contains step-by-step explanantion and code to extract historical temperature data.
 - After obtaining temperature data in `lake_temperature_time_series.csv` file use `data_analysis.ipynb` to generate the trends.
 
 ## Results
