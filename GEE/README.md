@@ -22,11 +22,12 @@ Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikip
 ```
 
 ├── extracted_data
-│   ├── lake_temperature_time_series.csv
+│   ├── `lake_temperature_time_series.csv`
 ├── scripts
-│   ├── Lake_temperature_trends_data_collection.ipynb  # For extracting the time-series temperature data using multiple Landsats (part I)
-│   ├── data_analysis.ipynb  # Trend analysis of extracted time-series temperature data (part II)
-├── README.md
+│   ├── `Lake_temperature_trends_data_collection.ipynb`  # For extracting the time-series temperature data using multiple Landsats (part I)
+│   ├── `data_analysis.ipynb`  # Trend analysis of extracted time-series temperature data (part II)
+├── `Masking_notes.pdf` # Handwritten notes with example on how to mask cloud, snow, shadow and other unnecessary pixels in landsat image.
+├── `README.md`
 
 ```
 
@@ -55,7 +56,7 @@ The temperature trend plot presented above shows the average temperature plot *(
 
 In conclusion, the decreasing temperature trend in lake *Fewa* in contrast to *golbal warming* should be a key motivation for additional research into the underlying reasons, such as the functions of pollution, sedimentation, and shifting hydrological dynamics, in order to better understand and remedy the factiors impacting the thermal attibutes of the lake.
 
-*Final Comment: Data and trends can be obtained for almost any lake in the world using the provided resources*
+*Final Comment: Data and trends can be obtained for almost any lake in the world using the provided resources.*
 
 ## License
 
