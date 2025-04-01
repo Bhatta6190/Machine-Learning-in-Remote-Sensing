@@ -11,13 +11,11 @@ The time series lake temperature data was collected using Google Earth Engine an
 
 Fewa Lake, located in the Pokhara Valley, is Nepal’s second-largest lake and a popular tourist destination. Despite its scenic beauty, the lake has faced environmental challenges, including pollution from urbanization and invasive species. The analysis investigates how these factors might have influenced the lake’s thermal profile over time.
 
-<figure style="text-align: center;">
-  <img src="https://live.staticflickr.com/3946/15715573565_e1e65b4d17_b.jpg" alt="Fewa Lake" style="width: 700px; display: block; margin-left: auto; margin-right: auto;">
-  <figcaption style="margin-top: 10px;">
-    Figure 1: View of Fewa Lake <br>
-    Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikipedia</a>
-  </figcaption>
-</figure>
+<p align="center">
+  <img src="https://live.staticflickr.com/3946/15715573565_e1e65b4d17_b.jpg" alt="Fewa Lake" width="60%"/>
+</p>
+<p align="center"><strong>Figure 1: View of Fewa Lake</strong><br>
+Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikipedia</a></p>
 
 
 ## Directory Structure
