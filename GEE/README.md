@@ -33,10 +33,10 @@ Source: <a href="https://en.wikipedia.org/wiki/Phewa_Lake" target="_blank">Wikip
 ## Results
 
 <p align="center">
-  <img src="./lake_ROI_satellite_imagery.png" alt="ROI" width="65%"/>
+  <img src="./lake_ROI_satellite_imagery.png" alt="ROI" width="80%"/>
 </p>
 <p align="center">
-  <img src="./Fewa_temperature_trends.png" alt="Temperature trend" width="70%"/>
+  <img src="./Fewa_temperature_trends.png" alt="Temperature trend" width="82%"/>
 </p>
 <p align="center">
   <strong>Figure 2:</strong> Satellite Image of Lake of Interest and selected ROI (a) and Temperature trend plot (b).
