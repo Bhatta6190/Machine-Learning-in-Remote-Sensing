@@ -1,0 +1,8 @@
+# Data files (from Amirhossein Hassanzadeh's repo)
+
+landis_chlorophyl_regression_test.npy
+landis_chlorophyl_regression_testgt.npy
+landis_chlorophyl_regression_train.npy
+landis_chlorophyl_regression_traingt.npy
+landis_chlorophyl_regression_val.npy
+landis_chlorophyl_regression_valgt.npy
