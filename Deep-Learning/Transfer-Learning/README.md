@@ -46,11 +46,15 @@ All the codes and *Results* for this task are available in the python notebook f
 
 ## Results Comparison
 
+<div align="center">
+
 | Method                   | Accuracy | Precision | Recall |
 |--------------------------|----------|-----------|--------|
 | Feature Extraction + XGB |   88.57%  |   89.68%   |  88.57% |
 | Head-Only Fine-tuning    |   90.79%  |   91.94%   |  90.79% |
 | Full Model Fine-tuning   |   95.87%  |   96.33%   |  95.87% |
+
+</div>
 
 
 <p align="center">
