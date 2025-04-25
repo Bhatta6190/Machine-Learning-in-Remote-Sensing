@@ -1,6 +1,6 @@
 # Transfer Learning for Remote Sensing Image Classification
 
-This work explores transfer learning techniques for remote sensing image classification using the UCMerced dataset. Three different approaches were evaluated: feature extraction with traditional classifiers, fine-tuning only the classification head, and full fine-tuning of a pretrained model.
+This work explores transfer learning techniques for remote sensing image classification using the UCMerced dataset. Three different approaches were evaluated: feature extraction + traditional classifiers, fine-tuning only the classification head, and full fine-tuning of a pretrained model.
 
 ## Dataset
 
