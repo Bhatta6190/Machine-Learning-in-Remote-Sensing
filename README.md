@@ -16,6 +16,15 @@ This repository provides tools and resources for applying machine learning to re
   │                      # based on spectral band values as features  
   ```
 - **`GEE`**: Historical Trend Analysis of Lake Temperatures using `LANDSAT` Data obtained through `Google Earth Engine (GEE)`.
+- **`Deep-Learning`**: This directory contains two main subdirectories:  
+
+  ```
+  Deep-Learning/
+  │── CNN-based-Chlorophyl-Estimation/    #  1D convolutional neural network (CNN) for leaf chlorophyll estimation  
+  │                                       # using the 425 bands hyperspectral leaf reflectance data  
+  │── Transfer-Learning/                  # Using Pretrained Resnet18 Model to classify UCMerced Data 
+  │                                       # based on Transfer learning and tuning the pretrained model
+  ```
 
 Suggestions are highly appreciated.
 
