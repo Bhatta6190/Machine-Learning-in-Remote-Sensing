@@ -23,7 +23,7 @@ This repository provides tools and resources for applying machine learning to re
   │── CNN-based-Chlorophyl-Estimation/    #  1D convolutional neural network (CNN) for leaf chlorophyll estimation  
   │                                       # using the 425 bands hyperspectral leaf reflectance data  
   │── Transfer-Learning/                  # Using Pretrained Resnet18 Model to classify UCMerced Data 
-  │                                       # based on Transfer learning and tuning the pretrained model
+  │                                       # based on Transfer learning principle
   ```
 
 Suggestions are highly appreciated.
