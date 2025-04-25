@@ -1,6 +1,7 @@
 # Exploratory Data Analysis (EDA) of Sentinel2 Multispectral Satellite Data
 
 **Sentinel2** is a Earth observation mission satellite that capture 13 band imagery at various spatial resolution (from 20m to 60m). In this data analysis we will explore a dataset collected by this platform over Rochester, New York. The zip version of the dataset is also uploaded with the resource materials.
+
 The code `eda.ipynb` does following serially:
 
 - **Importing the data:** The Sentinel2 dataset is imported as numpy data, which is an array type data format in `python`. The data is 12 Bands. The original Sentinel2 data have 13 bands in this dataset we only have 12 as Band 10 (1375 nm) has been excluded.
