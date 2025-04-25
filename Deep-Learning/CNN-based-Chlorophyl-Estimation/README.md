@@ -25,7 +25,7 @@ Implemented in PyTorch using `nn.Conv1d`. The architecture is as follows:
 ## Result
 
 <p align="center">
-  <img src="./output.png" alt="model_output" width="90%"/>
+  <img src="./output.png" alt="model_output" width="100%"/>
 </p>
 <p align="center"><strong>Figure: Chlorophyll content prediction outcome CNN model</strong></p>
 
