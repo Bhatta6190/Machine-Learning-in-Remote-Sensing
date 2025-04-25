@@ -14,7 +14,7 @@ This work explores transfer learning techniques for remote sensing image classif
 
 ### Task I – Feature Extraction + Off-the-shelf Classifier
 - Pretrained ResNet model used to extract image features.
-- Features classified using XGBoost and/or SVM.
+- Features classified using XGBoost classifier.
 - Only extracted features used; model weights frozen.
 
 ### Task II – Head-Only Fine-tuning
@@ -48,13 +48,13 @@ All the codes and *Results* for this task are available in the python notebook f
 
 | Method                   | Accuracy | Precision | Recall |
 |--------------------------|----------|-----------|--------|
-| Feature Extraction + SVM |   88.57%  |   89.68%   |  88.57% |
+| Feature Extraction + XGB |   88.57%  |   89.68%   |  88.57% |
 | Head-Only Fine-tuning    |   90.79%  |   91.94%   |  90.79% |
 | Full Model Fine-tuning   |   95.87%  |   96.33%   |  95.87% |
 
 
 <p align="center">
-  <img src="./best_performing_model_cm.png" alt="model_output" width="100%"/>
+  <img src="./best_performing_model_cm.png" alt="best_output" width="100%"/>
 </p>
 <p align="center"><strong>Figure: Confusion Matrix for best performing model.</strong></p>
 
